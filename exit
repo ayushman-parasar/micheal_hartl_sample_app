@@ -1,0 +1,17 @@
+[33mcommit 135e39a70db6cac7bf7fa4da225a6237b066f752[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: ayushman-parasar <learnertsk@gmail.com>
+Date:   Tue Aug 11 15:26:08 2020 +0530
+
+    before change of email sender in production
+
+[33mcommit 511d113f54f27316d233a827f2c643bb568876b5[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ayushman-parasar <learnertsk@gmail.com>
+Date:   Tue Aug 11 01:38:09 2020 +0530
+
+    activation link sent to email after signup
+
+[33mcommit adbb2ef5dddff3f06303733428494317e6083cc2[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: ayushman-parasar <learnertsk@gmail.com>
+Date:   Tue Aug 11 00:07:09 2020 +0530
+
+    destroy users done
