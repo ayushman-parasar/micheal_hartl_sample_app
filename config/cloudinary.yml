@@ -1,0 +1,6 @@
+development:
+  cloud_name = 'dmgzj7gru'
+  api_key = '579686583728188'
+  api_secret = 'WQj0YHKyUdL4O_hfwHBil7tkctc'
+  secure = true
+  cdn_subdomain = true
