@@ -70,8 +70,8 @@ Rails.application.configure do
   host = 'https://michael-hartl-ayush.herokuapp.com/'
   config.action_mailer.default_url_options = { host: host }
 
-  # SMTP settings for gmail
-config.action_mailer.smtp_settings = {
+  # SMTP settings for gmail.
+config.action_mailer.smtp_settings= {
   :address              => "smtp.gmail.com",
   :port                 => 587,
   :user_name            => "michael.hartl.ruby@gmail.com",
